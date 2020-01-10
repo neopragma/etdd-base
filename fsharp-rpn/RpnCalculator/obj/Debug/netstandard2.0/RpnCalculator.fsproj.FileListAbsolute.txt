@@ -1,0 +1,8 @@
+/Users/connexxo/Documents/Projects/etdd-base/fsharp-rpn/RpnCalculator/bin/Debug/netstandard2.0/RpnCalculator.deps.json
+/Users/connexxo/Documents/Projects/etdd-base/fsharp-rpn/RpnCalculator/bin/Debug/netstandard2.0/RpnCalculator.dll
+/Users/connexxo/Documents/Projects/etdd-base/fsharp-rpn/RpnCalculator/bin/Debug/netstandard2.0/RpnCalculator.pdb
+/Users/connexxo/Documents/Projects/etdd-base/fsharp-rpn/RpnCalculator/obj/Debug/netstandard2.0/RpnCalculator.fsprojAssemblyReference.cache
+/Users/connexxo/Documents/Projects/etdd-base/fsharp-rpn/RpnCalculator/obj/Debug/netstandard2.0/RpnCalculator.AssemblyInfoInputs.cache
+/Users/connexxo/Documents/Projects/etdd-base/fsharp-rpn/RpnCalculator/obj/Debug/netstandard2.0/RpnCalculator.AssemblyInfo.fs
+/Users/connexxo/Documents/Projects/etdd-base/fsharp-rpn/RpnCalculator/obj/Debug/netstandard2.0/RpnCalculator.dll
+/Users/connexxo/Documents/Projects/etdd-base/fsharp-rpn/RpnCalculator/obj/Debug/netstandard2.0/RpnCalculator.pdb
